@@ -63,10 +63,10 @@ h1 a {
 
 #menu {
     height: 70px;
-    background: linear-gradient(#F8F594, #D5D533);
-    background: -webkit-linear-gradient(#F8F594, #D5D533);
-    background: -o-linear-gradient(#F8F594, #D5D533);
-    background: -moz-linear-gradient(#F8F594, #D5D533);
+    background: linear-gradient(#8fc0e7, #5d94b9);
+    background: -webkit-linear-gradient(#5490b3, #3c8ba3);
+    background: -o-linear-gradient(#7e93f0, #4283a8);
+    background: -moz-linear-gradient(#79b0cf, #328897);
     padding: 7px 0;
 }
 
@@ -78,7 +78,7 @@ ul {
     float: left;
     padding: 0 30px;
     height: 30px;
-    border-right: 1px solid #5d12e7;
+    border-right: 1px solid #4049d4;
 }
 
 #menu ul li:last-child {
@@ -89,7 +89,7 @@ ul {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 17px;
-    color: #5d12e7;
+    color: #485fdf;
     line-height: 30px;
     -webkit-transition: font-size 0.3s ease;
     -moz-transition: font-size 0.3s ease;
@@ -116,7 +116,7 @@ ul {
 
 #introduction h3 {
     font-size: 45px;
-    color: #316901;
+    color: #110169;
     font-weight: normal;
 }
 
